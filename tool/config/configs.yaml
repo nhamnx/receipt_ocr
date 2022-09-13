@@ -1,0 +1,9 @@
+#################   RECEIPT SEGMENTATION CONFIG   ###################
+
+seg_weight: "./weights/receipt_segment.pth"
+seg_config: "./tool/config/receipt_segmentation/configs.yaml"
+
+#################   OCR CONFIG   ###################
+ocr_config : "./tool/config/text_detection/configs.yaml"
+
+output: "./output"

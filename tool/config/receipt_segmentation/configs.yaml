@@ -1,0 +1,6 @@
+threshold : 0.5
+num_classes : 1
+device : "cuda"
+num_workers : 2
+# classes : ['receipt']
+
