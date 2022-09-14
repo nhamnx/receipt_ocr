@@ -2,9 +2,9 @@
 
 ## **INTRODUCTION**
 ## **REQUIREMENTS**
-PYTHON=3.8
-DETECTRON2 - INSTALL VIA THIS [INSTRUCTION GUILD](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)
-PYTORCH=1.8 - INSTALL VIA THIS [INSTRUCTION GUILD](https://pytorch.org/get-started/locally/)
+PYTHON=3.8\
+DETECTRON2 - INSTALL VIA THIS [INSTRUCTION GUILD](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)\
+PYTORCH=1.8 - INSTALL VIA THIS [INSTRUCTION GUILD](https://pytorch.org/get-started/locally/)\
 ## **HOW TO RUN**
 1. Git clone this project.
 2. Install dependencies: ```pip install -r requirements.txt```
